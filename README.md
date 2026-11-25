@@ -11,11 +11,11 @@
 1. Get the plugin directly from the [Roblox Creator Store](https://create.roblox.com/store/asset/97846539313267/Vultus-Surface-Pro).
 2. Open **Roblox Studio**, go to the **Plugins** tab, and click **[Vultus - Surface Pro]**.
 
-### Option 2: Manual Install (GitHub Releases)
+### Option 2: Releases Link
 1. Go to the [Releases](../../releases) page on the right side of this repository.
-2. Download the latest `.rbxm` or `.rbxmx` file.
-3. Open **Roblox Studio**, go to the **Plugins** tab, and click **Plugins Folder** to open your local plugins directory.
-4. Drag and drop the downloaded file into that folder, then restart Roblox Studio.
+2. Go to link.
+3. Get the plugin from the creator store.
+4. Repeat Step-2 in Option 1.
 
 ## 🛠️ How to Use
 1. Select a part, model, or UI element in the **Explorer**.
